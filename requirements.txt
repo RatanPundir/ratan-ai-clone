@@ -4,4 +4,3 @@ langchain-community
 chromadb
 sentence-transformers
 torch
-unsloth
